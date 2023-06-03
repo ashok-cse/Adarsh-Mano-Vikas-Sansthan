@@ -4,6 +4,7 @@ Website for Adarsh Mano Vikas Sansthan
 
 Tech Stack: LAMP
 Framework: Wordpress
+Prototype: Figma (https://www.figma.com/file/y287NHN7Rwbg4NlpuYB6Za/Untitled?type=design&node-id=0%3A1&t=4LOYrFGBH1pigNfa-1)
 
 
 About
